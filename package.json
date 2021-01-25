@@ -1,0 +1,23 @@
+{
+  "name": "hdm-31",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "bulma": "0.9.1",
+    "d3": "6.2.0",
+    "d3-scale": "3.2.3",
+    "d3-scale-chromatic": "2.0.0",
+    "highcharts": "8.2.2",
+    "tippy.js": "6.2.7"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
